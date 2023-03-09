@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll

@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\bin\Debug\net6.0\Homework-One.exe
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\bin\Debug\net6.0\Homework-One.deps.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\bin\Debug\net6.0\Homework-One.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\bin\Debug\net6.0\Homework-One.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\bin\Debug\net6.0\Homework-One.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\refint\Homework-One.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\Homework-One.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-One\Homework-One\obj\Debug\net6.0\ref\Homework-One.dll
