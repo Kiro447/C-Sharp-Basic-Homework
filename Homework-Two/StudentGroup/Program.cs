@@ -3,7 +3,8 @@ Console.WriteLine("Hello, World!");
 
 string[] studentsG1 = { "Ivan", "Stefan", "Mitre", "Stevo", "Pavle", "Mitko" };
 string[] studentsG2 = { "Kanye", "Andrew", "Tristan", "Drake", "Joe", "Jordan" };
-
+Console.WriteLine("Enter 1 to print the users from G1");
+Console.WriteLine("Enter 2 to print the users from G2");
 bool success = int.TryParse(Console.ReadLine(), out int input);
 if (success)
 {
