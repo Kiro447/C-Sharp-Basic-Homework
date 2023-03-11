@@ -15,4 +15,10 @@ Console.WriteLine("Enter forth Number");
 int fourthNumber = Convert.ToInt32(Console.ReadLine());
 
 decimal averageNumber = (firstNumber + secondNumber + thirdNumber + fourthNumber) / 4m;
+if (averageNumber == 0)
+{
+    Console.WriteLine("Sum of all numbers must be greater than 0");
+}
+else { 
 Console.WriteLine($"The average of {firstNumber},{secondNumber},{thirdNumber},{fourthNumber} is {averageNumber}");
+}
