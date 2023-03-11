@@ -5,7 +5,7 @@ int[] arrOfNums = new int[6];
 int counter = 0;
 
 
-
+Console.WriteLine("Enter 6 numbers into array and find the sum of all even numbers that you entered");
 while (counter <= 5)
 {
     Console.WriteLine($"Enter number");
