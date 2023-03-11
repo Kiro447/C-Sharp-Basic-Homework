@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\bin\Debug\net6.0\Homework-Two.exe
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\bin\Debug\net6.0\Homework-Two.deps.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\bin\Debug\net6.0\Homework-Two.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\bin\Debug\net6.0\Homework-Two.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\bin\Debug\net6.0\Homework-Two.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\refint\Homework-Two.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\Homework-Two.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\Homework-Two\obj\Debug\net6.0\ref\Homework-Two.dll

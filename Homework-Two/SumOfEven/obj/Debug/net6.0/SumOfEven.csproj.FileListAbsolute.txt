@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\bin\Debug\net6.0\SumOfEven.exe
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\bin\Debug\net6.0\SumOfEven.deps.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\bin\Debug\net6.0\SumOfEven.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\bin\Debug\net6.0\SumOfEven.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\bin\Debug\net6.0\SumOfEven.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\refint\SumOfEven.dll
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.pdb
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\SumOfEven.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-One\Homework-Two\SumOfEven\obj\Debug\net6.0\ref\SumOfEven.dll
