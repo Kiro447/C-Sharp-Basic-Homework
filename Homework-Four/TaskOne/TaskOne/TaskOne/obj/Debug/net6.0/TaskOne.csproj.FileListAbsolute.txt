@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.exe
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.dll
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.dll
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\TaskOne\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll

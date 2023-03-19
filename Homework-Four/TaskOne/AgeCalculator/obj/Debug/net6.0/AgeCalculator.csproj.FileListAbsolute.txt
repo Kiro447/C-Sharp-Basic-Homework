@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\bin\Debug\net6.0\AgeCalculator.exe
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\bin\Debug\net6.0\AgeCalculator.deps.json
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\bin\Debug\net6.0\AgeCalculator.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\bin\Debug\net6.0\AgeCalculator.dll
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\bin\Debug\net6.0\AgeCalculator.pdb
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.dll
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\refint\AgeCalculator.dll
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.pdb
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\AgeCalculator.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-Four\TaskOne\AgeCalculator\obj\Debug\net6.0\ref\AgeCalculator.dll
