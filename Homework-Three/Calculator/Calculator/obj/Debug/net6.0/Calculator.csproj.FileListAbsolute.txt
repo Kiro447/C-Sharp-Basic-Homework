@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-Three\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
