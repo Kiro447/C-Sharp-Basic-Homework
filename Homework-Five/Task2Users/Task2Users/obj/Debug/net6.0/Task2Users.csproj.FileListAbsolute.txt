@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\bin\Debug\net6.0\Task2Users.exe
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\bin\Debug\net6.0\Task2Users.deps.json
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\bin\Debug\net6.0\Task2Users.runtimeconfig.json
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\bin\Debug\net6.0\Task2Users.dll
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\bin\Debug\net6.0\Task2Users.pdb
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.AssemblyInfo.cs
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.dll
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\refint\Task2Users.dll
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.pdb
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\Task2Users.genruntimeconfig.cache
+E:\C-Sharp-Basic-Homework\Homework-Five\Task2Users\Task2Users\obj\Debug\net6.0\ref\Task2Users.dll
